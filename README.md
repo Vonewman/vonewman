@@ -2,10 +2,10 @@
 
 # Abdoulaye Diallo
 
+Hey! I'm @vonewman (Abdoulaye Diallo)
+
 _Software engineer (and sometimes still a scientist) based in Dakar, Senegal_ <br>
 
-
-Hey! I'm @vonewman (Abdoulaye Diallo)
 
 I have been building APIs and tools for Machine Learning and data systems for startups in Dakar.
 
